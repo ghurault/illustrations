@@ -1,6 +1,7 @@
 # Miscellaneous illustrations
 
 - [Ordered logistic distribution](ordered_logistic.R)
+- [Gaussian distribution](gaussian.R)
 - 
 
 ## Reproducibility
