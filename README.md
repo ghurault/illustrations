@@ -5,6 +5,7 @@
 - [Clustering](clustering.R)
 - [Prediction xkcd style](prediction_xkcd.R)
 - [Bayesian updating (coin flip)](bayesian_coin.R)
+- [Forward chaining](forward_chaining.R)
 - 
 
 ## Reproducibility
