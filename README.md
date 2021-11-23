@@ -4,7 +4,7 @@
 - [Gaussian distribution](gaussian.R)
 - [Clustering](clustering.R)
 - [Prediction xkcd style](prediction_xkcd.R)
-- Bayesian updating (coin flip): [static image](bayesian_coin.R) and [animation](bayesian_coin_anim.R)
+- [Bayesian updating (coin flip)](bayesian_coin.R)
 - 
 
 ## Reproducibility
