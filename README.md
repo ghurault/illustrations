@@ -2,6 +2,7 @@
 
 - [Ordered logistic distribution](ordered_logistic.R)
 - [Gaussian distribution](gaussian.R)
+- [Clustering](clustering.R)
 - 
 
 ## Reproducibility
