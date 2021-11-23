@@ -2,3 +2,9 @@
 
 - [Ordered logistic distribution](ordered_logistic.R)
 - 
+
+## Reproducibility
+
+To reproduce the figures, it is recommended to first open the project (`.Rproj` file) in [RStudio IDE](https://www.rstudio.com/products/rstudio/).
+The project uses [renv](https://rstudio.github.io/renv/index.html) to manage package dependencies.
+To install the packages and their dependencies required to reproduce the figures, first install renv with `install.packages("renv")`, and then call `renv::restore()`.
