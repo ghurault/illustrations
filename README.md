@@ -1,17 +1,20 @@
 # Miscellaneous illustrations
 
-- [Ordered logistic distribution](ordered_logistic.R)
-- [Gaussian distribution](gaussian.R)
-- [Clustering](clustering.R)
-- [Prediction xkcd style](prediction_xkcd.R)
-- [Bayesian updating (coin flip)](bayesian_coin.R)
-- [Forward chaining](forward_chaining.R)
-- [Ranked Probability Score (RPS)](RPS.R)
-- [Stickman](stickman.R)
-- [Sampling a distribution](sampling.R)
-- [Metrics for probabilistic forecasts](prob_metrics.R)
+To view the image gallery, go [here](https://ghurault.github.io/illustrations/gallery)!
 
-View the [gallery](gallery.md).
+The corresponding scripts are:
+
+- [Bayesian updating (coin flip)](bayesian_coin.R)
+- [Clustering](clustering.R)
+- [Forward chaining](forward_chaining.R)
+- [Gaussian distribution](gaussian.R)
+- [Metrics for probabilistic forecasts](prob_metrics.R)
+- [Ordered logistic distribution](ordered_logistic.R)
+- [Prediction xkcd style](prediction_xkcd.R)
+- [Ranked Probability Score (RPS)](RPS.R)
+- [Sampling a distribution](sampling.R)
+- [Stickman](stickman.R)
+
 
 ## Reproducibility
 
