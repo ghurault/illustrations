@@ -8,7 +8,8 @@
 - [Forward chaining](forward_chaining.R)
 - [Ranked Probability Score (RPS)](RPS.R)
 - [Stickman](stickman.R)
--
+- [Sampling a distribution](sampling.R)
+- 
 
 ## Reproducibility
 
