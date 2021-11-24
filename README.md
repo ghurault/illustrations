@@ -9,7 +9,7 @@
 - [Ranked Probability Score (RPS)](RPS.R)
 - [Stickman](stickman.R)
 - [Sampling a distribution](sampling.R)
-- 
+- [Metrics for probabilistic forecasts](prob_metrics.R)
 
 ## Reproducibility
 
