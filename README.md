@@ -7,7 +7,8 @@
 - [Bayesian updating (coin flip)](bayesian_coin.R)
 - [Forward chaining](forward_chaining.R)
 - [Ranked Probability Score (RPS)](RPS.R)
-- 
+- [Stickman](stickman.R)
+-
 
 ## Reproducibility
 
