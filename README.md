@@ -11,6 +11,8 @@
 - [Sampling a distribution](sampling.R)
 - [Metrics for probabilistic forecasts](prob_metrics.R)
 
+View the [gallery](gallery.md).
+
 ## Reproducibility
 
 To reproduce the figures, it is recommended to first open the project (`.Rproj` file) in [RStudio IDE](https://www.rstudio.com/products/rstudio/).
